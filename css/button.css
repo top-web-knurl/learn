@@ -6,7 +6,7 @@
     color: #ffffff;
     border: 0;
     border-radius: 12px;
-    background-color: #F2726F;
+    background-color: #a9b912;
     height: 48px;
     cursor: pointer;
     filter: drop-shadow(0px 8px 16px rgba(38, 38, 38, 0.24));
@@ -14,7 +14,7 @@
 }
 
 .button:hover {
-    background-color: #FF7976;
+    background-color: #a9b912;
 }
 
 .header__button {
